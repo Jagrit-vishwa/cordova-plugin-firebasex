@@ -3479,6 +3479,6 @@ FirebasePlugin.removeFirestoreListener(function(){
 ```
 
 # Credits
-- [@robertarnesson](https://github.com/robertarnesson) for the original [cordova-plugin-firebase](https://github.com/arnesson/cordova-plugin-firebase) from which this plugin is forked.
+- [@dpa99c](https://github.com/dpa99c) for the forked-original [cordova-plugin-firebase](https://github.com/dpa99c/cordova-diagnostic-plugin) from which this plugin is forked.
 - [@sagrawal31](https://github.com/sagrawal31) and [Wiz Panda](https://github.com/wizpanda) for contributions via [cordova-plugin-firebase-lib](https://github.com/wizpanda/cordova-plugin-firebase-lib).
 - [Full list of contributors](https://github.com/dpa99c/cordova-plugin-firebasex/graphs/contributors)
